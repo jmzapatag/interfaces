@@ -23,3 +23,14 @@ with col1:
   resp = st.checkbox("y el corazón tucun tucun tucun")
   if resp:
     st.write('Correcto!')
+
+with col2:
+  st.subheader("Esta es la segunda columna")
+  modo = st.radio("Cual es tu starter favorito?", ('Charmander', 'Squirtle', 'Bulbasaur'))
+  if modo == 'Charmander':
+    st.write("La opción correcta")
+  if modo == 'Squirtle':
+    st.write('vamo a calmarno')
+  if modo == 'Bulbasaur':
+    st.write('El desechable')
+  
