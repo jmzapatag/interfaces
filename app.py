@@ -7,4 +7,4 @@ st.header("jijijija")
 st.write("no me copies anto")
 image = Image.open('ralsei.png')
 
-st.Image(image, width = 200)
+st.image(image, width = 200)
