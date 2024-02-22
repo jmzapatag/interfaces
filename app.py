@@ -5,4 +5,4 @@ st.title("Mi Primera App!!")
 
 st.header("jijijija")
 st.write("no me copies anto")
-image = Image.open('')
+image = Image.open('ralsei.png')
