@@ -5,9 +5,9 @@ st.title("Mi Primera App!!")
 
 st.header("jijijija")
 st.write("no me copies anto")
-image = Image.open('ralsei.png')
+image = Image.open('imagen.png')
 
-st.image(image, caption ='Ralsei my beloved')
+st.image(image, caption ='Ralsei')
 
 
 texto = st.text_input('hola', 'chao')
