@@ -5,7 +5,7 @@ st.title("Mi Primera App!!")
 
 st.header("jijijija")
 st.write("no me copies anto")
-image = Image.open('imagen.png')
+image = Image.open('ralsei.png')
 
 st.image(image, caption ='Ralsei')
 
